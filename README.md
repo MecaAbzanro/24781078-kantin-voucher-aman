@@ -3,7 +3,7 @@
 Praktikum **P06: Risiko AI LLM dan Prompt Injection**
 
 ## Identitas Mahasiswa
-- **Nama**: Yuda Aditya Putra
+- **Nama**: M.Putara Meca Abzanro
 - **NIM**: 24781078
 - **Kelas / Praktikum**: P06 - Risiko AI LLM dan Prompt Injection
 
